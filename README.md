@@ -93,4 +93,4 @@ All models show minimal overfitting - the gap between training and cross-validat
 
 ##### Contact and Further Information
 
-Edgar Mercado - [edgar.mercado.us@gmail.com](mailto:edgar.mercado.us@gmail.com)
+Edgar Mercado - [edgar.mercado.us@gmail.com](mailto:edgar.mercado.us@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edgar-mercado/)
